@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.input {
+  font-size: 20px;
+  width: 60%;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-radius: 6px;
+}
+
+.btn {
+  background-color: orange;
+  color: white;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border: none;
+  font-size: 20px;
+  border-radius: 6px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+
+iframe {
+  display: none;
+  margin-top: 50px;
+  height: 800px;
+}
+
+.active {
+  display: block;
+}
