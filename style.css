@@ -34,6 +34,7 @@ iframe {
   display: none;
   margin-top: 50px;
   height: 900px;
+  overflow: hidden;
 }
 
 .active {
