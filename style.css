@@ -33,7 +33,7 @@ form {
 iframe {
   display: none;
   margin-top: 50px;
-  height: 900px;
+  height: auto;
   overflow: hidden;
 }
 
